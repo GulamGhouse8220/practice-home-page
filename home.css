@@ -1,0 +1,14 @@
+ h2{
+    display: flex; 
+    justify-content: flex-end;
+    color: white;
+}
+img{
+    width: 100%;
+}
+body{
+    background-color: violet;
+}
+p{
+    color: wheat;
+}
